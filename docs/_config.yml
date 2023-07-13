@@ -1,0 +1,9 @@
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+
+title: Painting Classifier
+description: This classifier can classify ten types of paintings. 
+
+author:
+  name: Niful Islam
