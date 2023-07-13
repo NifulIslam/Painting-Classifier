@@ -19,7 +19,7 @@ After that, the data was manually cleaned. The data cleaning process can be foun
 Later, the model was again trained on the cleaned dataset that resulted in imporved performance. The updated moel is available in [this notebook](https://www.kaggle.com/code/naifislam/painting-classification-with-fastai?scriptVersionId=136266989).
 
 # Model Deployment
-The model was deployed in [hugging face](https://huggingface.co/spaces/NifulIslam/Painting-Classification). 
+The model was deployed on hugging face. [hugging face app url](https://huggingface.co/spaces/NifulIslam/Painting-Classification). 
 # API integration with GitHub Pages
 Lastly, the hugging face api was integrated on github. Do check the github page [here](https://nifulislam.github.io/Painting-Classifier/).
 
