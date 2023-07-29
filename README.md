@@ -1,5 +1,5 @@
 
-<img align="center" height="500px" width="1000px" src="https://github.com/NifulIslam/Painting-Classifier/blob/main/photos/SamplePaintings.png" alt="Hugging face">
+<img align="center" height="400px" width="1000px" src="https://github.com/NifulIslam/Painting-Classifier/blob/main/photos/SamplePaintings.png" alt="Hugging face">
 
 # Clsssifier
 This image classifier can classify 10 tyepes of painging. The types are: <br>
